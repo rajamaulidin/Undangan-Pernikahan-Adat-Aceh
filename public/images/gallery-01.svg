@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 640" width="960" height="640">
+  <rect width="960" height="640" fill="#1A1715"/>
+  <rect x="24" y="24" width="912" height="592" rx="14" fill="none" stroke="#D4AF37" stroke-width="2" stroke-opacity="0.6"/>
+  <path d="M480 140 L540 230 L540 410 L420 410 L420 230 Z" fill="#241E1A" stroke="#D4AF37" stroke-width="2"/>
+  <circle cx="480" cy="290" r="36" fill="#661418" stroke="#D4AF37" stroke-width="1.8"/>
+  <text x="480" y="485" text-anchor="middle" fill="#D4AF37" font-family="Georgia, serif" font-size="24" font-weight="bold" letter-spacing="2">
+    [FOTO GALERI 01 - UTAMA]
+  </text>
+  <text x="480" y="520" text-anchor="middle" fill="#C7BFB5" font-family="sans-serif" font-size="15">
+    Busana Adat Meuh &amp; Kasab Aceh (Contoh Template)
+  </text>
+</svg>

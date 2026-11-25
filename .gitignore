@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+
+# Build & Runtime
+.next/
+out/
+.vercel/
+*.tsbuildinfo
+next-env.d.ts
+
+# Environment & Secrets (NEVER commit real credentials)
+.env
+.env.*
+!.env.example
+
+# Local Dev Data & Logs
+.data/
+*.log
+npm-debug.log*
+
+# OS Files
+.DS_Store
+Thumbs.db

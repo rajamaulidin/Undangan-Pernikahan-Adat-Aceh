@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 600" width="480" height="600">
+  <rect width="480" height="600" fill="#110E0C"/>
+  <rect x="18" y="18" width="444" height="564" rx="14" fill="none" stroke="#F5C842" stroke-width="2.5"/>
+  <path d="M160 220 Q240 130 320 220" fill="none" stroke="#F5C842" stroke-width="2.5"/>
+  <path d="M185 215 Q240 155 295 215" fill="none" stroke="#F5C842" stroke-width="1.8"/>
+  <circle cx="240" cy="158" r="10" fill="#8F161C" stroke="#F5C842" stroke-width="1.8"/>
+  <circle cx="240" cy="255" r="46" fill="#211C18" stroke="#F5C842" stroke-width="2.2"/>
+  <path d="M166 390 C166 334 314 334 314 390 Z" fill="#8F161C" stroke="#F5C842" stroke-width="2.2"/>
+  <text x="240" y="468" text-anchor="middle" fill="#F5C842" font-family="Georgia, serif" font-size="20" font-weight="bold" letter-spacing="2">
+    [FOTO DARA BARO]
+  </text>
+  <text x="240" y="498" text-anchor="middle" fill="#EBE3D8" font-family="sans-serif" font-size="13">
+    Placeholder Potret Mempelai Wanita
+  </text>
+</svg>

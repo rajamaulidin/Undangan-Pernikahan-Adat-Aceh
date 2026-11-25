@@ -1,0 +1,36 @@
+:root,
+:root[data-theme="klasik_megah"] {
+  --bg-page: #070606;
+  --bg-surface: #12100e;
+  --bg-card: #1d1916;
+  --bg-elevated: #28221d;
+  --text-primary: #ffffff;
+  --text-secondary: #ebe3d8;
+  --text-muted: #cfc4b4;
+  --brand-primary: #8f161c;
+  --brand-primary-hover: #ab1c24;
+  --brand-on-primary: #ffffff;
+  --accent-gold: #f5c842;
+  --accent-ornament: #f5c842;
+  --border-subtle: #4f4234;
+  --border-gold: #d4a72c;
+  --focus-ring: #f5c842;
+}
+
+:root[data-theme="modern_elegan"] {
+  --bg-page: #faf7f2;
+  --bg-surface: #f2ece1;
+  --bg-card: #ffffff;
+  --bg-elevated: #ebe3d5;
+  --text-primary: #1b221f;
+  --text-secondary: #353d39;
+  --text-muted: #525c56;
+  --brand-primary: #8f161c;
+  --brand-primary-hover: #ab1c24;
+  --brand-on-primary: #ffffff;
+  --accent-gold: #7a5618;
+  --accent-ornament: #b89446;
+  --border-subtle: #d5c9b8;
+  --border-gold: #b89446;
+  --focus-ring: #8f161c;
+}
